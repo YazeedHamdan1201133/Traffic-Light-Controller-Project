@@ -100,5 +100,6 @@ This structured approach ensures **correct traffic flow**, **proper timing contr
 
 ## 📫 Contact
 For any questions or discussions, feel free to reach out:
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazedyazedl2020@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yazeed-hamdan-59b83b281/)
